@@ -33,10 +33,9 @@ Sou Paulo da Silva Junior, estudante de Análise e Desenvolvimento de Sistemas e
 [![Paulo Junior Stats](https://github-readme-stats.vercel.app/api?username=Paulos-jr)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paulos-jr)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulos-jr&layout=compact&show_icons=true&theme=buefy)](https://github.com/paulos-jr/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Paulos-jr)](https://git.io/streak-stats)
 
 </div>
 
