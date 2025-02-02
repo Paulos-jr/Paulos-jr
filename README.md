@@ -39,6 +39,6 @@ Sou Paulo da Silva Junior, estudante de Análise e Desenvolvimento de Sistemas e
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Paulosjr256)](https://git.io/streak-stats)
 
 <a href="https://github.com/anuraghazra/convoychat">
-<img height=180 align="center" src="https://github-redame-stats.vercel.app/api/top-langs/?username=paulos-jr&layout=compact&theme=tokyonight"/>
+<img height=180 align="center" src="https://github-redame-stats.vercel.app/api/top-langs/?username=paulos-jr&layout=compact&theme=tokyonight" />
 </a>
 </div>
