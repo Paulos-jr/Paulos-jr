@@ -9,7 +9,7 @@
 <br>
 
 
-![](https://komarev.com/ghpvc/?username=your-github-Paulosjr256)
+![](https://komarev.com/ghpvc/?username=your-github-Paulos-jr)
 
 Sou Paulo da Silva Junior, estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor Front-End. Estou á procura da minha primeira oportunidade profissional na área de tecnologia, atualmente estou aprendendo e criando projetos com:
 
@@ -30,14 +30,15 @@ Sou Paulo da Silva Junior, estudante de Análise e Desenvolvimento de Sistemas e
 
 <div style="text-align: center;" align="center">
   
-[![Paulo Junior Stats](https://github-readme-stats.vercel.app/api?username=Paulosjr256)](https://github.com/anuraghazra/github-readme-stats)
+[![Paulo Junior Stats](https://github-readme-stats.vercel.app/api?username=Paulos-jr)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paulosjr256)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paulos-jr)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Paulosjr256)](https://git.io/streak-stats)
 
-<a href="https://github.com/anuraghazra/convoychat"><img height=180 align="center" src="https://github-redame-stats.vercel.app/api/top-langs/?username=paulos-jr&layout=compact&theme=tokyonight"/>
+<a href="https://github.com/anuraghazra/convoychat">
+<img height=180 align="center" src="https://github-redame-stats.vercel.app/api/top-langs/?username=paulos-jr&layout=compact&theme=tokyonight"/>
 </a>
 </div>
