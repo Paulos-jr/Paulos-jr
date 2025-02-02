@@ -40,4 +40,3 @@ Sou Paulo da Silva Junior, estudante de Análise e Desenvolvimento de Sistemas e
 
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paulos-jr&layout=compact&show_icons=true&theme=buefy)](https://github.com/Paulos-jr/github-readme-stats)
